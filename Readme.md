@@ -1,7 +1,7 @@
-<h1>Html and Css<h2>
+<h1>Html and Css
 
 ```
 Welcome buddy!!!
 Creating my first website
   ```
-yayyyy!!!
+
